@@ -5,5 +5,5 @@ https://salaryofarea.net/
 ・React  
 ・Google Cloud Platform  
 　・Compute Engine  
-  ・load balancing  
-  ・マネージド証明書
+　・load balancing  
+　・マネージド証明書
