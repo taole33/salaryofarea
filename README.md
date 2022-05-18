@@ -6,6 +6,7 @@ https://salaryofarea.net/
 
 ## 使用している技術
 ・React  
+・Google Fonts  
 ・Google Cloud Platform  
 　・Compute Engine  
 　・load balancing  
