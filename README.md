@@ -3,6 +3,7 @@
 
 ## リンク先
 https://salaryofarea.net/  
+(GCPの使用期間が終了したため、公開終了)
 
 ## 使用している技術
 ・React  
